@@ -1,0 +1,12 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+Hola mundo
+
+```{r}
+plot(cars)
+```
+
+Pruebinha
